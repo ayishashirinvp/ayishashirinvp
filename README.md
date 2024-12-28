@@ -94,7 +94,7 @@
 ### 
 
 <br clear="both">
-
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/github-snake.svg" />
 <img src="https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/snake.svg" alt="Snake animation" />
 
 ### ✍️ Random Dev Quote
@@ -109,5 +109,9 @@
 [![](https://visitcount.itsvg.in/api?id=ayishashirinvp&icon=6&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/github-snake.svg#gh-light-mode-only)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
