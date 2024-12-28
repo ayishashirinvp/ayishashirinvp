@@ -1,7 +1,6 @@
-# ✨ About Me:
+# Hello World!, I'm Ayisha, a fullstack Developer👋🏼:
 ##
 <div style="background-color:#f9f9f9; color:#333; padding: 15px; border-radius: 10px;">
-👋 I am Ayisha Shirin VP<br>
 👀 I’m passionate about web development and focused on mastering full-stack technologies.<br>
 🌱 Currently deepening my expertise in MERN Stack and building scalable solutions.<br>
 💞 I’m eager to collaborate on impactful projects that challenge creativity and solve real-world problems.<br>
@@ -15,13 +14,7 @@
 </div>
 
 ---
-### 👀Profile Views
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ayishashirinvp/count.svg?" />
-</div>
-
----
 
 ### 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -104,6 +97,14 @@
 <div align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 👀Profile Views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ayishashirinvp/count.svg?" />
 </div>
 
 ---
