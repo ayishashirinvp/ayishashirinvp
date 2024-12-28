@@ -1,6 +1,11 @@
 # 💫 About Me:
 👋 I am Ayisha Shirin VP<br>👀 I’m passionate about web development and focused on mastering full-stack technologies.<br>🌱 Currently deepening my expertise in MERN Stack and building scalable solutions.<br>💞 I’m eager to collaborate on impactful projects that challenge creativity and solve real-world problems.<br>📫 How to reach me: Connect via LinkedIn or email for project discussions and collaborations.
 
+###
+
+<div align="center">
+  <img height="168" src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU0MDA2NDksIm5iZiI6MTczNTQwMDM0OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI4VDE1MzkwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiYjRkMjU4OTRhODczMDgxMzI4OTg2NjViNWRmMTk4N2Q3ZDdkOThlNGMzNzhlNzNkOWQyZDVkMTg3YWUyMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YfzC9I5i6tjSTYBofLrhC8mQsnu5AUq54yYb99XO2pM"  />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayisha-shirin-vp-425980297/) 
