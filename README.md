@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 i am Ayisha Shirin VP<br>👀 I’m passionate about web development and focused on mastering full-stack technologies.<br>🌱 Currently deepening my expertise in MERN Stack and building scalable solutions.<br>💞 I’m eager to collaborate on impactful projects that challenge creativity and solve real-world problems.<br>📫 How to reach me: Connect via LinkedIn or email for project discussions and collaborations.
+👋 I am Ayisha Shirin VP<br>👀 I’m passionate about web development and focused on mastering full-stack technologies.<br>🌱 Currently deepening my expertise in MERN Stack and building scalable solutions.<br>💞 I’m eager to collaborate on impactful projects that challenge creativity and solve real-world problems.<br>📫 How to reach me: Connect via LinkedIn or email for project discussions and collaborations.
 
 
 ## 🌐 Socials:
