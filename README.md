@@ -1,22 +1,29 @@
-# 💫 About Me:
-👋 I am Ayisha Shirin VP<br>👀 I’m passionate about web development and focused on mastering full-stack technologies.<br>🌱 Currently deepening my expertise in MERN Stack and building scalable solutions.<br>💞 I’m eager to collaborate on impactful projects that challenge creativity and solve real-world problems.<br>📫 How to reach me: Connect via LinkedIn or email for project discussions and collaborations.
+# ✨ About Me:
+##
+<div style="background-color:#f9f9f9; color:#333; padding: 15px; border-radius: 10px;">
+👋 I am Ayisha Shirin VP<br>
+👀 I’m passionate about web development and focused on mastering full-stack technologies.<br>
+🌱 Currently deepening my expertise in MERN Stack and building scalable solutions.<br>
+💞 I’m eager to collaborate on impactful projects that challenge creativity and solve real-world problems.<br>
+📫 How to reach me: Connect via LinkedIn or email for project discussions and collaborations.
+</div>
 
-###
+---
 
 <div align="center">
   <img height="168" src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU0MDA2NDksIm5iZiI6MTczNTQwMDM0OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI4VDE1MzkwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiYjRkMjU4OTRhODczMDgxMzI4OTg2NjViNWRmMTk4N2Q3ZDdkOThlNGMzNzhlNzNkOWQyZDVkMTg3YWUyMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YfzC9I5i6tjSTYBofLrhC8mQsnu5AUq54yYb99XO2pM"  />
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ayishashirinvp/count.svg?"  />
 </div>
 
+---
+### 👀Profile Views
 
 <div align="center">
+  <img src="https://profile-counter.glitch.me/ayishashirinvp/count.svg?" />
+</div>
 
-# 💻 Tech Stack:
+---
+
+### 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -56,28 +63,29 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-### 📊 GitHub Stats:
+---
+
+### 🔀 GitHub Stats:
 <div style="display: flex; gap: 20px; justify-content: center;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ayishashirinvp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ayishashirinvp&theme=light&hide_border=false&include_all_commits=false&count_private=false" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayishashirinvp&theme=dark&hide_border=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayishashirinvp&theme=light&hide_border=false" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayishashirinvp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayishashirinvp&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </div>
 </div>
 
-</div>
-
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayishashirinvp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ayishashirinvp&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ## 🌐 Socials:
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -91,27 +99,27 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
 
-### 
-
-<br clear="both">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/github-snake.svg" />
-<img src="https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/snake.svg" alt="Snake animation" />
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayishashirinvp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=ayishashirinvp&icon=6&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/snake.svg" alt="Snake animation" />
 </div>
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://raw.githubusercontent.com/ayishashirinvp/ayishashirinvp/output/github-snake.svg#gh-light-mode-only)
+---
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</div>
+
+---
+
+### 🖁️ Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ayishashirinvp&limit=5&theme=light&combine_all_yearly_contributions=true" />
+</div>
+
+---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
